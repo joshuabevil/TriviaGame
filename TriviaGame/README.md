@@ -1,2 +1,0 @@
-# TriviaGame
-homework 5
